@@ -11,3 +11,9 @@ RoxygenNote: 7.3.1
 Imports: 
     hetGP,
     mvtnorm
+Suggests: 
+    knitr,
+    lhs,
+    rgl,
+    rmarkdown
+VignetteBuilder: knitr
